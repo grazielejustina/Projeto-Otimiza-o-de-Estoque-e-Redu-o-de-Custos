@@ -11,7 +11,7 @@ Objetivos do Projeto:
    
 Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonimizados, assegurando que informações sensíveis não possam ser associadas as decisões estratégicas da empresa.
 
-* **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-Otimiza-o-de-Estoque-e-Redu-o-de-Custos)]
+* **Projeto**: [**Link**(https://github.com/grazielejustina/Projeto-Otimiza-o-de-Estoque-e-Redu-o-de-Custos)]
   
 <img src="Supermecado.jpg" >
 
